@@ -11,4 +11,3 @@ Task 2:
 Task 3:
 - Part a: Conducted experiments with a small subset of data to explore various network architectures using pre-trained embeddings. Logged and documented the experiments on wandb, ensuring transparency and reproducibility.
 - Part b: Performed regularization experiments with the complete dataset, incorporating pre-trained embeddings and utilizing learning rate schedulers for enhanced model performance. Logged the experiments on wandb, showcasing a comprehensive understanding of regularization techniques and their impact on neural network training.
-![image](https://github.com/JyotsnaAmbekar/Multilabel-classification/assets/39901897/08840df1-3858-4332-929f-b87be24af86c)
